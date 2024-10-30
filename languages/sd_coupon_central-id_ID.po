@@ -1,0 +1,393 @@
+# Copyright (C) 2020 coupon-central
+# This file is distributed under the same license as the coupon-central package.
+msgid ""
+msgstr ""
+"Project-Id-Version: coupon-central\n"
+"POT-Creation-Date: 2020-09-04 10:58+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-sdcoupon-admin-scripts.php:44
+msgid "Choose or Upload"
+msgstr "Pilih atau Unggah"
+
+#: includes/admin/class-sdcoupon-admin-scripts.php:45
+msgid "Use this media"
+msgstr "Gunakan media ini"
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:33
+msgid "Store"
+msgstr "Toko"
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:41
+msgid "Link"
+msgstr "Tautan"
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:48
+msgid "Coupon Code"
+msgstr "Kode Kupon"
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:55
+msgid "Expired Date"
+msgstr "Tanggal Kadaluarsa"
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:61
+#: views/frontend/coupon/coupon-card.php:23
+msgid "Exclusive"
+msgstr "Eksklusif"
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:67
+msgid "Coupon Image"
+msgstr "Gambar Kupon"
+
+#: includes/coupon/class-sdcoupon-meta-box.php:77
+msgid "Coupon Detail"
+msgstr "Detail Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:32
+msgctxt "Post type general name"
+msgid "Coupons"
+msgstr "Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:33
+msgctxt "Post type singular name"
+msgid "Coupon"
+msgstr "Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:34
+msgctxt "Admin menu text"
+msgid "Coupons"
+msgstr "Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:35
+msgctxt "Add New on Toolbar"
+msgid "New Coupon"
+msgstr "Kupon Baru"
+
+#: includes/coupon/class-sdcoupon-post-type.php:36
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: includes/coupon/class-sdcoupon-post-type.php:37
+msgid "Add New Coupon"
+msgstr "Tambah Kupon Baru"
+
+#: includes/coupon/class-sdcoupon-post-type.php:38
+msgid "New Coupon"
+msgstr "Kupon Baru"
+
+#: includes/coupon/class-sdcoupon-post-type.php:39
+msgid "Edit Coupon"
+msgstr "Edit Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:40
+msgid "View Coupon"
+msgstr "Lihat Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:41
+msgid "All Coupons"
+msgstr "Semua Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:42
+msgid "Search Coupons"
+msgstr "Cari Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:43
+msgid "Parent Coupons:"
+msgstr "Kupon Induk:"
+
+#: includes/coupon/class-sdcoupon-post-type.php:44
+msgid "No coupons found."
+msgstr "Kupon tidak ditemukan."
+
+#: includes/coupon/class-sdcoupon-post-type.php:45
+msgid "No coupons found in Trash."
+msgstr "Kupon tidak ditemukan pada Sampah."
+
+#: includes/coupon/class-sdcoupon-post-type.php:46
+msgctxt "The post type archive label used in nav menus."
+msgid "Coupon archives"
+msgstr "Arsip Kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:47
+msgctxt "Used when inserting media"
+msgid "Insert into coupon"
+msgstr "Masukkan kedalam kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:48
+msgctxt "Used when viewing media attached to a post"
+msgid "Uploaded to this coupon"
+msgstr "Telah diunggah pada kupon ini"
+
+#: includes/coupon/class-sdcoupon-post-type.php:49
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen"
+msgid "Filter coupon list"
+msgstr "Saring daftar kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:50
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing screen"
+msgid "Coupons list navigation"
+msgstr "Navigasi daftar kupon"
+
+#: includes/coupon/class-sdcoupon-post-type.php:51
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing screen"
+msgid "Coupons list"
+msgstr "Daftar Kupon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:68
+msgctxt "Taxonomy general name"
+msgid "Stores"
+msgstr "Toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:69
+msgctxt "Taxonomy singular name"
+msgid "Store"
+msgstr "Toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:70
+msgid "Search Store"
+msgstr "Cari Toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:71
+msgid "All Stores"
+msgstr "Semua Toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:72
+msgid "Edit Store"
+msgstr "Edit Toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:73
+msgid "Update Store"
+msgstr "Perbarui Toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:74
+msgid "Add New Store"
+msgstr "Tambah Toko Baru"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:75
+msgid "New Store Name"
+msgstr "Nama Toko Baru"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:76
+msgid "Separate stores with commas"
+msgstr "Pisahkan toko dengan koma"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:77
+msgid "No stores found"
+msgstr "Toko tidak ditemukan"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:78
+msgid "Choose from the most used stores"
+msgstr "Pilih dari toko yang sering dipilih"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:79
+msgid "Stores"
+msgstr "Toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:80
+msgid "Back to stores"
+msgstr "Kembali ke toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:173
+#: includes/coupon/class-sdcoupon-taxonomy.php:191
+#: includes/coupon/class-sdcoupon-taxonomy.php:476
+#: includes/coupon/class-sdcoupon-taxonomy.php:494
+msgid "Short Description"
+msgstr "Deskripsi singkat"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:175
+msgid "The short description of the store."
+msgstr "Deskripsi singkat dari toko."
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:210
+#: includes/coupon/class-sdcoupon-taxonomy.php:228
+msgid "Store Logo"
+msgstr "Logo Toko"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:275
+#: includes/coupon/class-sdcoupon-taxonomy.php:295
+msgid "Name"
+msgstr "Nama"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:276
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:278
+#: includes/coupon/class-sdcoupon-taxonomy.php:298
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:279
+#: includes/coupon/class-sdcoupon-taxonomy.php:299
+msgid "Count"
+msgstr "Hitung"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:296
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:362
+msgctxt "Taxonomy general name"
+msgid "Coupon Categories"
+msgstr "Kategori Kupon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:363
+msgctxt "Taxonomy singular name"
+msgid "Coupon Category"
+msgstr "Kategori Kupon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:364
+msgid "Search Coupon Category"
+msgstr "Cari Kategori Kupon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:365
+msgid "All Coupon Categories"
+msgstr "Semua Kategori Kupon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:366
+msgid "Parent Coupon Category"
+msgstr "Kategori Kupon Induk"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:367
+msgid "Parent Coupon Category:"
+msgstr "Kategori Kupon Induk:"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:368
+msgid "Edit Coupon Category"
+msgstr "Edit Kategori Kupon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:369
+msgid "Update Coupon Category"
+msgstr "Perbarui Kategori Kupon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:370
+msgid "Add New Coupon Category"
+msgstr "Tambah Baru Kategori Kupon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:371
+msgid "New Coupon Category Name"
+msgstr "Nama Kategori Kupon Baru"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:372
+msgid "Categories"
+msgstr "Kategori"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:440
+#: includes/coupon/class-sdcoupon-taxonomy.php:458
+msgid "Icon Image"
+msgstr "Gambar Icon"
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:478
+msgid "The short description of the coupon category."
+msgstr "Deskripsi singkat dari kategori kupon."
+
+#: includes/frontend/class-sdcoupon-frontend-ajax.php:36
+#: includes/frontend/class-sdcoupon-frontend-ajax.php:57
+msgid "Bad params"
+msgstr "Parameter buruk"
+
+#: includes/frontend/class-sdcoupon-frontend-ajax.php:44
+#: includes/frontend/class-sdcoupon-frontend-ajax.php:66
+msgid "Success"
+msgstr "Sukses"
+
+#: includes/frontend/class-sdcoupon-frontend-scripts.php:34
+#: views/frontend/coupon/coupon-card.php:11
+#: views/frontend/coupon/coupon-card.php:12
+msgid "Show more"
+msgstr "Tampilkan lebih"
+
+#: includes/frontend/class-sdcoupon-frontend-scripts.php:35
+msgid "Show less"
+msgstr "Tampilkan sedikit"
+
+#: includes/frontend/class-sdcoupon-frontend-scripts.php:36
+msgid "Copied"
+msgstr "Tersalin"
+
+#: includes/frontend/class-sdcoupon-frontend-scripts.php:37
+msgid "Something went wrong"
+msgstr "Terjadi kesalahan"
+
+#: includes/functions/coupon-functions.php:114
+#, php-format
+msgid "Posted on %s"
+msgstr "Diposting pada %s"
+
+#: includes/functions/coupon-functions.php:124
+#, php-format
+msgid "By %s"
+msgstr "Oleh %s"
+
+#: includes/widgets/class-sdcoupon-widget-random-coupons.php:10
+msgid "Random Coupons"
+msgstr "Kupon Acak"
+
+#: includes/widgets/class-sdcoupon-widget-random-coupons.php:12
+msgid "Display random coupons"
+msgstr "Tampilkan kupon acak"
+
+#: includes/widgets/class-sdcoupon-widget-random-coupons.php:32
+msgid "Title:"
+msgstr "Judul:"
+
+#: includes/widgets/class-sdcoupon-widget-random-coupons.php:36
+msgid "Number of Posts:"
+msgstr "Jumlah Postingan:"
+
+#: views/admin/store/meta-box/store-logo.php:14
+msgid "Choose Logo"
+msgstr "Pilih Logo"
+
+#: views/frontend/coupon/coupon-card.php:18
+msgid "Read more"
+msgstr "Lebih lanjut"
+
+#: views/frontend/coupon/coupon-card.php:27
+#, php-format
+msgid "Expired: %s"
+msgstr "Kadaluarsa: %s"
+
+#: views/frontend/coupon/coupon-page.php:29
+msgid "Copy"
+msgstr "Salin"
+
+#: views/frontend/coupon/coupon-page.php:34
+#, php-format
+msgid "Expired at: %s"
+msgstr "Kadaluarsa: %s"
+
+#: views/frontend/coupon/coupon-page.php:46
+msgid "Go to Shop"
+msgstr "Ke Toko"
+
+#: views/frontend/coupon/coupon-page.php:54
+msgid "Continue reading"
+msgstr "Lanjut baca"
+
+#: views/share/add-media-button.php:13
+msgid "Choose Media"
+msgstr "Pilih Media"
+
+#: views/share/add-media-button.php:24
+msgid "Remove"
+msgstr "Hapus"

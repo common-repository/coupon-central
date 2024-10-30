@@ -1,0 +1,169 @@
+#sdcc-coupon-page {
+    .sdcc-entry-header {
+        position: relative;
+        width: 700px;
+        height: 340px;
+        margin: 50px auto 0;
+        background: #ffffff;
+        overflow: hidden;
+
+        @media only screen and(max-width: 768px) {
+            width: 90%;
+        }
+
+        &.no-thumbnail {
+            box-shadow: 0px 0px 0px 3px rgba(0, 0, 0, 0.42);
+        }
+
+        .sdcc-featured-image {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+
+            img {
+                flex-shrink: 0;
+                min-width: 100%;
+                min-height: 100%;
+                max-width: inherit;
+            }
+        }
+
+        .sdcc-ft-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.71);
+        }
+
+        .sdcc-coupon {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            padding: 25px;
+
+            &__entry-title {
+                text-align: center;
+                font-size: 25px;
+                margin: 0;
+                line-height: 1.5;
+
+                &::before {
+                    display: none;
+                }
+
+                @media only screen and(max-width: 992px) {
+                    font-size: 20px;
+                }
+            }
+
+            &__btn-wrapper {
+                width: 60%;
+                margin: 0 auto;
+            }
+
+            &__meta {
+                position: absolute;
+                bottom: 15px;
+                left: 0;
+                width: 100%;
+
+                ul {
+                    display: flex;
+                    justify-content: center;
+                    margin: 0;
+                    padding: 0;
+
+                    li {
+                        list-style-type: none;
+                        margin-left: 0;
+                        padding-left: 0;
+                        margin-right: 10px;
+                        font-size: 14px;
+
+                        &:last-child {
+                            margin-right: 0;
+                        }
+                    }
+                }
+            }
+
+            &__data {
+                width: 75%;
+                margin: 0 auto 20px;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            &__exp {
+                font-size: 12px;
+
+                @media only screen and(max-width: 992px) {
+                    width: 100%;
+                }
+            }
+
+            &__store {
+                font-size: 12px;
+
+                @media only screen and(max-width: 992px) {
+                    width: 100%;
+                }
+            }
+
+            .sdcc-code {
+                width: 75%;
+                margin: 20px auto 5px;
+                @include flexCenter;
+
+                @media only screen and(max-width: 992px) {
+                    width: 100%;
+                }
+
+                &__input {
+                    border: 2px solid $colorPrimary;
+                    padding: 15px;
+                    width: 70%;
+                    height: 55px;
+                    line-height: 1;
+                    text-align: center;
+                    font-weight: bold;
+                    background-color: #ffffff;
+
+                    @media only screen and(max-width: 992px) {
+                        width: 75%;
+                    }
+                }
+
+                &__copy-btn {
+                    width: 30%;
+                    border-radius: 0;
+                    line-height: 1;
+
+                    @media only screen and(max-width: 992px) {
+                        width: 25%;
+                    }
+                }
+            }
+        }
+    }
+
+    .sdcc-entry-content {
+        width: 800px;
+        margin: 50px auto;
+    }
+
+    .sdcc-section-inner {
+        width: 800px;
+        margin: 0 auto;
+    }
+
+    .sdcc-comments-wrapper {
+        width: 800px;
+        margin: 30px auto;
+    }
+}

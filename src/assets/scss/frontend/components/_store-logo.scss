@@ -1,0 +1,14 @@
+.sdcc-store-logo {
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: $boxShadow;
+    height: 115px;
+    padding: 10px;
+    overflow: hidden;
+    @include flexCenter;
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+}

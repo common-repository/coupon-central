@@ -1,0 +1,350 @@
+# Copyright (C) 2021 coupon-central
+# This file is distributed under the same license as the coupon-central package.
+msgid ""
+msgstr ""
+"Project-Id-Version: coupon-central\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-sdcoupon-admin-scripts.php:44
+msgid "Choose or Upload"
+msgstr ""
+
+#: includes/admin/class-sdcoupon-admin-scripts.php:45
+msgid "Use this media"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:33
+msgid "Store"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:41
+msgid "Link"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:48
+msgid "Coupon Code"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:55
+msgid "Expired Date"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:61, views/frontend/coupon/coupon-card.php:23
+msgid "Exclusive"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-detail-meta-box.php:67
+msgid "Coupon Image"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-meta-box.php:77
+msgid "Coupon Detail"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:32
+msgctxt "Post type general name"
+msgid "Coupons"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:33
+msgctxt "Post type singular name"
+msgid "Coupon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:34
+msgctxt "Admin menu text"
+msgid "Coupons"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:35
+msgctxt "Add New on Toolbar"
+msgid "New Coupon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:36
+msgid "Add New"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:37
+msgid "Add New Coupon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:38
+msgid "New Coupon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:39
+msgid "Edit Coupon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:40
+msgid "View Coupon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:41
+msgid "All Coupons"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:42
+msgid "Search Coupons"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:43
+msgid "Parent Coupons:"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:44
+msgid "No coupons found."
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:45
+msgid "No coupons found in Trash."
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:46
+msgctxt "The post type archive label used in nav menus."
+msgid "Coupon archives"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:47
+msgctxt "Used when inserting media"
+msgid "Insert into coupon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:48
+msgctxt "Used when viewing media attached to a post"
+msgid "Uploaded to this coupon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:49
+msgctxt "Screen reader text for the filter links heading on the post type listing screen"
+msgid "Filter coupon list"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:50
+msgctxt "Screen reader text for the pagination heading on the post type listing screen"
+msgid "Coupons list navigation"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-post-type.php:51
+msgctxt "Screen reader text for the items list heading on the post type listing screen"
+msgid "Coupons list"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:68
+msgctxt "Taxonomy general name"
+msgid "Stores"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:69
+msgctxt "Taxonomy singular name"
+msgid "Store"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:70
+msgid "Search Store"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:71
+msgid "All Stores"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:72
+msgid "Edit Store"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:73
+msgid "Update Store"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:74
+msgid "Add New Store"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:75
+msgid "New Store Name"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:76
+msgid "Separate stores with commas"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:77
+msgid "No stores found"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:78
+msgid "Choose from the most used stores"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:79
+msgid "Stores"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:80
+msgid "Back to stores"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:173, includes/coupon/class-sdcoupon-taxonomy.php:191, includes/coupon/class-sdcoupon-taxonomy.php:476, includes/coupon/class-sdcoupon-taxonomy.php:494
+msgid "Short Description"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:175
+msgid "The short description of the store."
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:210, includes/coupon/class-sdcoupon-taxonomy.php:228
+msgid "Store Logo"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:275, includes/coupon/class-sdcoupon-taxonomy.php:295
+msgid "Name"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:276
+msgid "Logo"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:278, includes/coupon/class-sdcoupon-taxonomy.php:298
+msgid "Slug"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:279, includes/coupon/class-sdcoupon-taxonomy.php:299
+msgid "Count"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:296
+msgid "Icon"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:362
+msgctxt "Taxonomy general name"
+msgid "Coupon Categories"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:363
+msgctxt "Taxonomy singular name"
+msgid "Coupon Category"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:364
+msgid "Search Coupon Category"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:365
+msgid "All Coupon Categories"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:366
+msgid "Parent Coupon Category"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:367
+msgid "Parent Coupon Category:"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:368
+msgid "Edit Coupon Category"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:369
+msgid "Update Coupon Category"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:370
+msgid "Add New Coupon Category"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:371
+msgid "New Coupon Category Name"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:372
+msgid "Categories"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:440, includes/coupon/class-sdcoupon-taxonomy.php:458
+msgid "Icon Image"
+msgstr ""
+
+#: includes/coupon/class-sdcoupon-taxonomy.php:478
+msgid "The short description of the coupon category."
+msgstr ""
+
+#: includes/frontend/class-sdcoupon-frontend-ajax.php:36, includes/frontend/class-sdcoupon-frontend-ajax.php:57
+msgid "Bad params"
+msgstr ""
+
+#: includes/frontend/class-sdcoupon-frontend-ajax.php:44, includes/frontend/class-sdcoupon-frontend-ajax.php:66
+msgid "Success"
+msgstr ""
+
+#: includes/frontend/class-sdcoupon-frontend-scripts.php:33, views/frontend/coupon/coupon-card.php:11, views/frontend/coupon/coupon-card.php:12
+msgid "Show more"
+msgstr ""
+
+#: includes/frontend/class-sdcoupon-frontend-scripts.php:34
+msgid "Show less"
+msgstr ""
+
+#: includes/frontend/class-sdcoupon-frontend-scripts.php:35
+msgid "Copied"
+msgstr ""
+
+#: includes/frontend/class-sdcoupon-frontend-scripts.php:36
+msgid "Something went wrong"
+msgstr ""
+
+#. translators: %s: Post Date
+#: includes/functions/coupon-functions.php:114
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: Post Author
+#: includes/functions/coupon-functions.php:124
+msgid "By %s"
+msgstr ""
+
+#: views/admin/store/meta-box/store-logo.php:14
+msgid "Choose Logo"
+msgstr ""
+
+#: views/frontend/coupon/coupon-card.php:18
+msgid "Read more"
+msgstr ""
+
+#: views/frontend/coupon/coupon-card.php:27
+msgid "Expired: %s"
+msgstr ""
+
+#: views/frontend/coupon/coupon-page.php:29
+msgid "Copy"
+msgstr ""
+
+#: views/frontend/coupon/coupon-page.php:34
+msgid "Expired at: %s"
+msgstr ""
+
+#: views/frontend/coupon/coupon-page.php:46
+msgid "Go to Shop"
+msgstr ""
+
+#: views/frontend/coupon/coupon-page.php:54
+msgid "Continue reading"
+msgstr ""
+
+#: views/share/add-media-button.php:13
+msgid "Choose Media"
+msgstr ""
+
+#: views/share/add-media-button.php:24
+msgid "Remove"
+msgstr ""

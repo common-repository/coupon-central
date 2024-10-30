@@ -1,0 +1,24 @@
+.sdcc-mbox-form-table {
+    width: 100%;
+
+    tr {
+        th {
+            width: 160px;
+            padding: 5px 5px 5px 0;
+            text-align: left;
+        }
+
+        th,
+        td {
+            padding: 7px 0;
+        }
+    }
+}
+
+.sdcc-category-icon-block,
+.sdcc-store-logo-block {
+    img {
+        height: auto;
+        max-width: 150px;
+    }
+}

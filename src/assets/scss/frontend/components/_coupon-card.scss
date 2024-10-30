@@ -1,0 +1,116 @@
+.sdcc-card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    display: flex;
+    height: 155px;
+    overflow: hidden;
+    box-shadow: $boxShadow;
+    transition: all 0.25s ease-in;
+    position: relative;
+    margin-bottom: 30px;
+
+    &--list {
+    }
+
+    &__image {
+        width: 200px;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    &__title-and-excerpt {
+        padding: 15px;
+        width: 55%;
+        position: relative;
+    }
+
+    &__title {
+        font-size: 23px;
+        margin-top: 0 !important;
+        margin-bottom: 7px !important;
+        text-decoration: none;
+
+        &::before {
+            display: none;
+        }
+    }
+
+    &__excerpt {
+        font-size: 16px;
+    }
+
+    &__excerpt-show {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 40px;
+        padding: 15px;
+        background: rgb(255, 255, 255);
+        background: linear-gradient(
+            0deg,
+            rgba(255, 255, 255, 1) 0%,
+            rgba(255, 255, 255, 1) 25%,
+            rgba(255, 255, 255, 0.58) 100%
+        );
+        text-align: right;
+        font-size: 13px;
+    }
+
+    &__cta-btn-wrapper {
+        align-self: center;
+        width: 20%;
+        text-align: center;
+
+        a {
+            padding: 10px 15px !important;
+        }
+    }
+
+    &__exclusive {
+        position: absolute;
+        top: 0;
+        right: 15px;
+        background: orangered;
+        padding: 2px 4px 7px;
+        color: #ffffff;
+        font-size: 12px;
+        width: 20px;
+        height: 30px;
+        text-align: center;
+        box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.18);
+
+        &:before {
+            content: "";
+            width: 21px;
+            height: 10px;
+            background: #ffffff;
+            transform: rotate(45deg);
+            position: absolute;
+            bottom: 0px;
+            left: -9px;
+        }
+
+        &:after {
+            content: "";
+            width: 23px;
+            height: 12px;
+            background: #ffffff;
+            transform: rotate(-45deg);
+            position: absolute;
+            bottom: -2px;
+            left: 8px;
+        }
+    }
+
+    &__expired {
+        position: absolute;
+        bottom: 5px;
+        right: 5px;
+        font-size: 11px;
+        color: #7d7d7d;
+    }
+}

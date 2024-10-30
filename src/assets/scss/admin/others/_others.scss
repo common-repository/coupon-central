@@ -1,0 +1,14 @@
+.sdcc-media {
+    &__image-preview-wrapper {
+        margin-bottom: 10px;
+
+        img {
+            height: auto;
+            max-width: 200px;
+        }
+    }
+
+    &__remove-wrapper {
+        margin-top: 10px;
+    }
+}

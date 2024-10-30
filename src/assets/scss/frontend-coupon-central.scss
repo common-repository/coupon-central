@@ -1,0 +1,19 @@
+/*
+============== Media Queries =============
+1200px
+992px
+768px
+576px
+415px
+*/
+
+@import "frontend/abstracts/variables";
+@import "frontend/abstracts/mixins";
+
+@import "frontend/components/button";
+@import "frontend/components/coupon-card";
+@import "frontend/components/coupon-widget";
+@import "frontend/components/store-logo";
+
+@import "frontend/pages/archive";
+@import "frontend/pages/coupon";
